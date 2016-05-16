@@ -1,39 +1,39 @@
 {
-	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"default_line_ending": "unix",
-	"draw_white_space": "all",
-	"ensure_newline_at_eof_on_save": true,
-	"fallback_encoding": "UTF-8",
-	"font_face": "Roboto Mono",
-	"ignored_packages":
-	[
-		"Markdown",
-		"Vintage"
-	],
-	"indent_guide_options":
-	[
-		"draw_normal",
-		"draw_active"
-	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
-	"material_theme_accent_indigo": true,
-	"material_theme_bold_tab": true,
-	"material_theme_contrast_mode": false,
-	"material_theme_panel_separator": true,
-	"material_theme_small_statusbar": true,
-	"material_theme_small_tab": true,
-	"material_theme_tabs_autowidth": true,
-	"material_theme_tabs_separator": true,
-	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80
-	],
-	"tab_size": 4,
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+    "always_show_minimap_viewport"      : true,
+    "bold_folder_labels"                : true,
+    "color_scheme"                      : "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+    "default_line_ending"               : "unix",
+    "draw_white_space"                  : "all",
+    "ensure_newline_at_eof_on_save"     : true,
+    "fallback_encoding"                 : "UTF-8",
+    "font_face"                         : "Roboto Mono",
+    "ignored_packages":
+    [
+        "Markdown",
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom"               : 3,
+    "line_padding_top"                  : 3,
+    "material_theme_accent_indigo"      : true,
+    "material_theme_bold_tab"           : true,
+    "material_theme_contrast_mode"      : false,
+    "material_theme_panel_separator"    : true,
+    "material_theme_small_statusbar"    : true,
+    "material_theme_small_tab"          : true,
+    "material_theme_tabs_autowidth"     : true,
+    "material_theme_tabs_separator"     : true,
+    "overlay_scroll_bars"               : "enabled",
+    "rulers":
+    [
+        80
+    ],
+    "tab_size"                          : 4,
+    "theme"                             : "Material-Theme-Darker.sublime-theme",
+    "translate_tabs_to_spaces"          : true,
+    "trim_trailing_white_space_on_save" : true
 }
