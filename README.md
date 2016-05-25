@@ -3,6 +3,7 @@
 ## Plugins
 + [Emmet](http://emmet.io/)
 + [AngularJS](https://packagecontrol.io/packages/AngularJS)
++ [GitGutter](https://github.com/jisaacks/GitGutter)
 
-## Themes
+## Theme
 + [Material Theme for Sublime](https://equinusocio.github.io/material-theme/)
