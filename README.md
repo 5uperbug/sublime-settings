@@ -11,3 +11,5 @@
 
 ## Theme
 + [Material Theme for Sublime](https://equinusocio.github.io/material-theme/)
+
+_Thinking about moving to Atom. Yay or nay?_
